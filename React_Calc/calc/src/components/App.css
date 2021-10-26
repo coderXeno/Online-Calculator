@@ -1,9 +1,0 @@
-.App{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.calculator{
-    width: 700px;
-}

@@ -1,8 +1,0 @@
-.buttonPanel{
-    display: flex;
-    flex-direction: column;
-}
-
-.buttonPanel div{
-    height: 100px;
-}
